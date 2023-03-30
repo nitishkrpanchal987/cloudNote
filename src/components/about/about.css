@@ -1,0 +1,22 @@
+.main_header{
+    margin-top: 15vh;
+    /* font-family: 'Piazzolla', serif;
+    /* font-family: 'Quicksand', sans-serif; */
+    /* font-weight: lighter;
+    font-size: medium;  */
+
+    font-size: 1rem;
+    margin: 1rem 0 4rem 0;
+    text-transform: capitalize;
+}
+
+.text_color{
+    color: rgb(0, 162, 255);
+}
+
+button{
+    border-radius: 9px;
+    border: none;
+    padding: 8px 18px;
+    box-shadow: 0 8px 6px -6px #000;
+}
